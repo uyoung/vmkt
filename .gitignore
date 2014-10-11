@@ -1,0 +1,10 @@
+.hg/
+.hgignore
+安装说明.txt
+runtime/
+uploads/
+images/
+nbproject/
+conf/etc/dict.utf8.xdb
+tpl/Home/haoid/common/images
+tpl/static/
